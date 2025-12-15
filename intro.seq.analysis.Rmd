@@ -12,12 +12,13 @@ output:
 
 ----
 
-Basespace
+Basespace (Usual method, not using for workshop)
 
 Download all samples in Workshop project
 
 Seqs are barcode names, folder is client name  
-I have a one-liner to deal with that but first 
+
+<https://github.com/krmaas/bioinformatics/bscli.bash>
 
 ----
 

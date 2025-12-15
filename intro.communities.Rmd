@@ -1,7 +1,7 @@
 ---
 title: "Intro to Microbial Communities"
 author: "Kendra Maas"
-date: "May 12, 2025"
+date: "December 15, 2025"
 output:
    slidy_presentation:
     fig_caption: yes
@@ -16,7 +16,10 @@ output:
 
  - Microbes control everything!^*
  - We can!
- 
+ -
+ -
+ -
+ -
  
  
  
@@ -24,7 +27,7 @@ output:
 
 ----
 
-![Sequencing Costs by year](ncbi-genomes.svg){width=80%}
+![Sequencing Costs by year](ncbi-genomes.svg){width=60%}
 
 ----
 
@@ -52,24 +55,24 @@ output:
 #Other Genes for Other taxonomic groups
 
 - ITS(1/2)
+    - Internal Transcribed Spacer
     - ITS2 common for fungi
     - Primers in 5S and 28S (very conserved)
+    - UNITE2 database
 ![Ribosome ITS](Eucaryot_rdna.png){width=80%}
-
-- CO1 
-    - Mitochondial
-    - Probably works for most animals and many seed plants (possibly fungi)
-    - Each major group needs their own primers
-    
-- UNITE2 and BOLD databases make these viable taxonomic markers
+![Ihrmark2012 ITS2 primers](C:/data/presentations/Ihrmark2012ITS2fem1437-fig-0001.jpeg){width=80%}
 
 
 ----
 
-#Cartoon of wet lab process
+#Other Genes for Other taxonomic groups
 
+- CO1 
+    - Mitochondial
+    - Probably works for most animals and many seed plants (possibly fungi)
+    - Each major group needs their own primers (and database?)
+    - BOLD/MIDORI2/??? databases within groups
 
-![wetlab](microbial_community_analysis.jpg){width=80%}
 
 ----
 
@@ -81,6 +84,13 @@ Christophe Fraser,Eric J. Alm, Martin F. Polz, Brian G. Spratt, William P. Hanag
 Science 6 February 2009: Vol. 323 no. 5915 pp. 741-746 DOI: 10.1126/science.1159388 
 
 
+
+----
+
+#Cartoon of wet lab process
+
+
+![wetlab](microbial_community_analysis.jpg){width=80%}
 
 ----
 
@@ -139,10 +149,8 @@ Science 6 February 2009: Vol. 323 no. 5915 pp. 741-746 DOI: 10.1126/science.1159
 ----
 
 Etherpad for this workshop  
-<https://etherpad.mit.edu/p/20241216MEworkshop>
+<https://etherpad.mit.edu/p/20251215MEworkshop>
 
-Data for the course  
-<https://drive.google.com/file/d/1n4hGgcDXhrbT9Rd1gKbWmgxdDMA3POce/view?usp=sharing>
 
 mothur
 
@@ -157,5 +165,8 @@ dada2
 
 Good guide for dada2 using the mothur SOP dataset  
 <https://benjjneb.github.io/dada2/tutorial.html>
+
+My modification for v4-6 Archaeal seqs
+<https://github.com/krmaas/bioinformatics/dada2v46.Rmd>
 
 ----

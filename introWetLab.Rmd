@@ -9,6 +9,7 @@ output:
     fig_width: 7
     incremental: yes
     fig-crop: no
+    fig-align: right
 ---
 
 ----
@@ -96,6 +97,6 @@ Illumina vs Nanopore
     - 16S not g'nuff
     - trying UMI initial cluster to polish reads
     
-![Nanopore q](maxee10filteredQualityMock.pdf){crop=no,width=100%, height=100%}
+![Nanopore q](maxee10filteredQualityMock.jpg){width=40%}
 
 

@@ -44,13 +44,6 @@ output:
 
 ---
 
-# Wet lab errors?
-
-- Failed extraction
-- Failed PCR
-- Mis-pooled
-
----
 
 # Wet lab biases
 
