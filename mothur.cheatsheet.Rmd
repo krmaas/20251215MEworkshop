@@ -20,7 +20,6 @@ screen.seqs(maxambig, maxlength) | Remove ambiguous bases, too short/long seqs |
 Command | Purpose | Finer Points  
 ---------------|----------------------|--------------------
 unique.seqs() | Reduces computation cost | count replicats but remove from fasta  
-count.seqs() | Reduces computation cost | replaces names and groups  
 summmary.seqs() |  |  
 pcr.seqs() | create database w/ just v4 | only need to do once per target
 system(mv) | call bash commands within mothur |  
