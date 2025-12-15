@@ -16,9 +16,9 @@ In class discussions and commands will be posted in an etherpad <https://etherpa
 
 
 
-[Kendra's bash script for downloading data from Basespace](https://github.com/krmaas/bioinformatics/bscli.bash)
+[Kendra's bash script for downloading data from Basespace](https://github.com/krmaas/bioinformatics/blob/master/bscli.bash)
 
-[Kendra's mothur cheatsheet](https://github.com/krmaas/bioinformatics/mothur.cheatsheet.html)
+[Kendra's mothur cheatsheet](https://krmaas.github.io/20251215MEworkshop/mothur.cheatsheet.html)
 
 
 <!--
