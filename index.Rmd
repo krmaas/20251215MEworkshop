@@ -20,14 +20,18 @@ In class discussions and commands will be posted in an etherpad <https://etherpa
 
 [Kendra's mothur cheatsheet](https://krmaas.github.io/20251215MEworkshop/mothur.cheatsheet.html)
 
+[Kendra's mothur v4](https://github.com/krmaas/bioinformatics/blob/master/mothur.bash)
 
-<!--
+[Kendra's mothur Fungal script](https://github.com/krmaas/bioinformatics/blob/master/mothur.fung.bash)
 
-[Kendra's mothur Fungal script](https://github.com/krmaas/bioinformatics/blob/master/mothur.fungal.batch)
+
+[How to make Krona plot](https://github.com/accaldwell/mothur_krona)
+
+
+
 
 Theta YC paper <https://www.tandfonline.com/doi/full/10.1080/STA-200066418>
 
-[How to make Krona plot](https://github.com/accaldwell/mothur_krona)
 
 [bioblitz environmental data](https://krmaas.github.io/20230814MEworkshop/may18ws.env.txt)
 
@@ -41,7 +45,7 @@ Theta YC paper <https://www.tandfonline.com/doi/full/10.1080/STA-200066418>
 
 [Kendra's R script from the workshop]
 
--->
+
 
 Basic Schedule. We will roughly follow this, but the exact amount of time we spend on each topic will be adjusted depending on the class.
 
